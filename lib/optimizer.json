@@ -1,9 +1,0 @@
-{
-    "dependencies": [
-        "stacktraces.js",
-        {
-            "path": "stacktraces_node.js",
-            "if-extension": "node"
-        }
-    ]
-}
