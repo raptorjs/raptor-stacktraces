@@ -3,7 +3,7 @@
   "description": "Module to support pretty-printing of stack traces in multiple JavaScript environments",
   "repository": {
     "type": "git",
-    "url": "https://github.com/raptorjs3/raptor-stacktraces.git"
+    "url": "https://github.com/raptorjs/raptor-stacktraces.git"
   },
   "scripts": {
     "test": "node_modules/.bin/mocha --ui bdd --reporter spec  ./test"
